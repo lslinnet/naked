@@ -1,0 +1,5 @@
+name: Naked
+type: profile
+description: 'This is a completely naked profile for Drupal, it basically does nothing and imposes nothing upon you.'
+version: 1.x
+core: 8.x
